@@ -1,0 +1,91 @@
+.container-wrapper {
+    background-color: red;  
+    width:1100;
+    margin: 0 auto;
+}
+.header-wrapper{
+    background-color: blue; 
+    width:100%;
+}
+.logo-search-wrapper{
+    /* background-color: orange; */
+    width:800px;
+    float:left;
+}
+.logo-wrapper{
+    /* background-color: brown; */
+    width:300px;
+    float:left;
+    border: 1px dashed black;
+}
+.search-wrapper{
+    /* background-color: yellow; */
+    width:500px;
+    float:right;
+    border: 1px dashed black;
+}
+.information-wrapper{
+    /* background-color: ivory; */
+    width:300px;
+    float:right;
+    border: 1px dashed black;
+}
+.navigation-wrapper{
+    background-color: green;
+    width:1100px;
+}
+.nav-list-wrapper{
+    /* background-color: royalblue; */
+    width:600px;
+    float:left;
+    border: 1px dashed black;
+}
+.nav-user-wrapper{
+    /* background-color: magenta; */
+    width:500px;
+    float:right;
+    border: 1px dashed black;
+}
+.body-wrapper{
+    background-color: purple;
+    width:1100px;
+}
+.left-side-wrapper{
+    /* background-color: pink; */
+    width:800px;
+    float:left;
+}
+.right-side-wrapper{
+    /* background-color: olive; */
+    width:300px;
+    float:right;
+    border: 1px dashed black;
+}
+.left-wrapper{
+    /* background-color: lightcoral; */
+    width:300px;
+    float:left;
+    border: 1px dashed black;
+}
+.right-wrapper{
+    /* background-color: blueviolet; */
+    width:500px;
+    float:right;
+    border: 1px dashed black;
+}
+.footer-wrapper{
+    background-color: indianred;
+    width:1100px;
+}
+.right-footer-wrapper{
+    /* background-color: blueviolet; */
+    width:00px;
+    float:right;
+    border: 1px dashed black;
+}
+.left-footer-wrapper{
+    /* background-color: blueviolet; */
+    width:400px;
+    float:left;
+    border: 1px dashed black;
+}
